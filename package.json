@@ -1,5 +1,19 @@
 {
+  "name": "flowerweb",
+  "version": "1.0.0",
+  "description": "A project for your flower web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"Building project...\""
+  },
+  "dependencies": {},
   "devDependencies": {
-    "tailwindcss": "^3.4.17"
-  }
+    "tailwindcss": "^3.0.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
+  },
+  "author": "Anish Kumar Saini",
+  "license": "MIT"
 }
+
